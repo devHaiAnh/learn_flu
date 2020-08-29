@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:learn_flu/dynamic_user_interface.dart';
+import 'package:learn_flu/DynamicUserInterface/dynamic_user_interface.dart';
 
 void main() {
   runApp(MyApp());

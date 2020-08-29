@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-class DynamicUserInterface extends StatelessWidget {
+class Animations extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      
+      body: Container(),
     );
   }
 }
